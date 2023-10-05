@@ -41,8 +41,8 @@
     "horusecCliMonitorRetryInSeconds": 15,
     "horusecCliPrintOutputType": "text",
     "horusecCliProjectPath": "./",
-    "horusecCliRepositoryAuthorization": "00000000-0000-0000-0000-000000000000",
-    "horusecCliRepositoryName": "",
+    "horusecCliRepositoryAuthorization": "d4f36bdf-c247-425a-8ab9-3dfee8028131",
+    "horusecCliRepositoryName": "DevSecOps",
     "horusecCliReturnErrorIfFoundVulnerability": false,
     "horusecCliRiskAcceptHashes": [],
     "horusecCliSeveritiesToIgnore": [
